@@ -319,9 +319,10 @@ propose additions to:
 
 Possible summaries:
 
+- Senior Software Engineer with Technical Leadership Experience Summary
 - Senior Backend Engineer Summary
 - Technical Lead Summary
-- Platform Engineer Summary
+- Staff Engineer Summary
 
 ---
 
@@ -391,3 +392,45 @@ Structured files are normalized reusable outputs later used to generate:
 - ATS resumes
 - technical portfolio material
 - role-specific career narratives
+
+# Final Output Validation (Mandatory)
+
+Before responding to the user, perform a final validation pass.
+
+You MUST verify that every required output has been generated or updated.
+
+Return nothing until this checklist is complete.
+
+## Required File Checklist
+
+- [ ] <company>-experience.md
+- [ ] <company>-system-design.md
+- [ ] <company>-interview-stories.md
+
+## Optional File Checklist
+(Generate when requested or when applicable from rawdata)
+
+- [ ] master-skills.md
+- [ ] professional-summary.md
+
+## Mandatory Sections inside professional-summary.md
+
+If `professional-summary.md` is generated, it MUST include ALL of the following sections:
+
+- [ ] Senior Software Engineer with Technical Leadership Experience Summary
+- [ ] Senior Backend Engineer Summary
+- [ ] Technical Lead Summary
+- [ ] Staff Engineer Summary
+
+## Final Verification Rules
+
+Before sending output:
+
+1. Compare generated files against this checklist.
+2. Confirm no required section is missing.
+3. Confirm no requested optional section was skipped.
+4. Confirm output is markdown only.
+5. Confirm metadata YAML frontmatter exists in every generated file.
+
+If any item is missing:
+STOP and generate the missing section before responding.
