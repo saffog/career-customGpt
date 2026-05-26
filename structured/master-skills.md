@@ -2,13 +2,13 @@
 metadata:
   company: Global
   document_type: master-skills
-  source_of_truth: kroger-rawdata.md
+  source_of_truth: kroger-rawdata.md, baufest-rawdata.md
   created_at: 2026-05-23T21:00:00Z
-  updated_at: 2026-05-23T21:00:00Z
+  updated_at: 2026-05-25T23:55:00Z
   created_by: Career Database Structurer GPT
   last_updated_by: Career Database Structurer GPT
   status: active
-  version: 1.0
+  version: 1.1
   review_status: draft
 ---
 # Master Skills
@@ -17,15 +17,19 @@ metadata:
 
 - Java 11
 - Java 17
+- Java
+- Python
 - Spring Boot
 - Spring MVC
 - Spring Data
 - Spring Security
 - Spring WebFlux
+- Spring Framework
 - JPA
 - Hibernate
 - Feign Client
 - REST API Development
+- REST API Design
 - Microservices Architecture
 - SOLID Principles
 - Backend Integrations
@@ -34,6 +38,8 @@ metadata:
 - Scheduled Jobs
 - CompletableFuture
 - Flux / Reactive Streams
+- Webhook Processing
+- External Provider Integrations
 
 # Distributed Systems
 
@@ -48,6 +54,8 @@ metadata:
 - Platform Modernization
 - Legacy System Decommission
 - System Dependency Analysis
+- Asynchronous Backend Coordination
+- Distributed Transaction Workflows
 
 # Databases
 
@@ -68,6 +76,7 @@ metadata:
 - Containerized Deployments
 - Runtime Diagnostics
 - Environment Configuration
+- Cloud Deployments
 
 # DevOps
 
@@ -78,6 +87,7 @@ metadata:
 - Deployment Validation
 - Release Support
 - Build & Pipeline Automation
+- Production Deployment Validation
 
 # Testing
 
@@ -90,6 +100,7 @@ metadata:
 - API Testing
 - Mocking External Services
 - Provider Simulation Testing
+- Webhook Validation Testing
 
 # Observability
 
@@ -101,6 +112,8 @@ metadata:
 - Runtime Diagnostics
 - Production Incident Investigation
 - Service Health Monitoring
+- Incident Analysis
+- Post-Release Monitoring
 
 # Security
 
@@ -109,6 +122,13 @@ metadata:
 - Spring Security
 - Internal API Security
 - Service Authorization Patterns
+- Auth0
+- OAuth / Token Handling
+- Identity Verification Integrations
+- KYC Workflow Orchestration
+- Biometric Verification Integration
+- Secure Authentication Flows
+- Customer Identity Lifecycle Management
 
 # Architecture & Domain Modeling
 
@@ -122,6 +142,49 @@ metadata:
 - Technical Design Documentation
 - Architecture Evaluation
 - Design Tradeoff Analysis
+- Technical Feasibility Analysis
+- Architecture Validation
+- Distributed Financial Systems
+- Digital Wallet Architecture
+
+# Frontend
+
+- Angular
+- Micro Frontend Architecture
+- Frontend Architecture Evaluation
+
+# AI & Automation
+
+- Azure AI
+- OpenAI APIs
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Prompt Evaluation
+- AI Benchmarking
+- Model Evaluation
+- Response Quality Benchmarking
+- Embeddings
+- Embedding Generation
+- Semantic Search
+- Contextual Retrieval Systems
+- Retrieval-Augmented Generation (RAG)
+- Knowledge Ingestion Pipelines
+- Enterprise Conversational AI Platforms
+- AI Prototyping
+- AI Engineering Research
+
+# Fintech & Payments Domain
+
+- Digital Wallet Platforms
+- Remittance Processing
+- Money Movement Systems
+- Transaction Processing
+- Customer Verification Flows
+- Digital Onboarding
+- Financial Workflow Orchestration
+- CBDC-Related Platform Operations
+- Payment Authorization
+- Benefit Card Processing
 
 # Leadership & Product
 
@@ -138,3 +201,10 @@ metadata:
 - Platform Ownership
 - Operational Risk Management
 - Delivery Planning
+- Architecture Ownership
+- Innovation Initiative Leadership
+- Research & Prototyping
+- Strategic Technical Evaluation
+- Technical Mentoring
+- Backlog Clarification
+- Release Coordination
