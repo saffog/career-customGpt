@@ -1,5 +1,5 @@
 # [Your Name]
-**[Add here Professional Role]**  
+**[Professional Role]**  
 [Email] · [Phone] · [LinkedIn] · [Location]
 
 ---
@@ -30,6 +30,8 @@ Senior Backend Software Engineer with experience building enterprise backend sys
 
 **Monitoring & Observability:** [Tool], [Tool], [Tool]
 
+**Security:** [Skill], [Skill], [Skill]
+
 ---
 
 ## Professional Experience
@@ -38,12 +40,7 @@ Senior Backend Software Engineer with experience building enterprise backend sys
 **[Company]** — [Location]  
 **[Start Date] – [End Date]**
 
-Short context paragraph describing:
-
-- business domain
-- platform/system scope
-- type of ownership
-- engineering impact
+[Short context paragraph describing business domain, platform/system scope, ownership, and engineering impact.]
 
 Example:
 
@@ -56,6 +53,21 @@ Built and maintained enterprise backend platforms supporting **[domain]**. Worke
 - Optimized **[performance / reliability / scalability]**
 - Improved **[testing / observability / deployment stability]**
 - Collaborated across **[engineering/product/platform/QA]**
+
+**Technologies:** [Tech Stack]
+
+---
+
+### [Role]
+**[Company]** — [Location]  
+**[Start Date] – [End Date]**
+
+[Short context paragraph describing business domain, platform/system scope, ownership, and engineering impact.]
+
+- [Achievement / Responsibility]
+- [Achievement / Responsibility]
+- [Achievement / Responsibility]
+- [Achievement / Responsibility]
 
 **Technologies:** [Tech Stack]
 
@@ -76,11 +88,14 @@ Built and maintained enterprise backend platforms supporting **[domain]**. Worke
 
 - [Contribution]
 - [Contribution]
+- [Contribution]
 - [Outcome / Impact]
 
 ---
 
 ## Additional Strengths
 
-- [Additional Strenght]
-- [Additional Strenght]
+- [Additional Strength]
+- [Additional Strength]
+- [Additional Strength]
+- [Additional Strength]
